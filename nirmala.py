@@ -1,2 +1,2 @@
-print("im nirmala")
-print("nirmala")
+print("im nirmala")  
+print("nir mala ")     
